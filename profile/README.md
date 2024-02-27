@@ -32,4 +32,11 @@ Our research is beneficial to a plethora of applications, such as human-computer
     We are developing systems for automated shallow bathymetry retrieval and detailed mapping of coastal benthic cover based on optical imagery from drones (Unmanned Aerial Vehicles). We are applying state-of-the-art image analysis, neural networks and machine learning techniques for training systems for automated, high-resolution 3D reconstruction of coastal seafloor. 
      
 
+## Links
+------------------------------------------------------------------ 
+* [Antonis Argyros, Personal Page](https://users.ics.forth.gr/~argyros/index.html)
+* [Tassos Rousos, Personal Page](https://users.ics.forth.gr/~troussos/research_topics.html)
+* [HCCV Group Videos](https://www.youtube.com/c/AntonisArgyros/videos)
+
+
 
