@@ -11,7 +11,7 @@ Our research is beneficial to a plethora of applications, such as human-computer
 
 
 
-##R&D Activities
+## R&D Activities
 ------------------------------------------------------------------ 
 * High-fidelity MOtion CAPture (MOCAP) of humans from commodity cameras.
     We envision and develop methods and technical systems that permit low-cost, unobtrusive and compact quantification of human motion in 3D, as well as semantic interpretation of human activities based on markerless visual input. We are working on high-fidelity MOCAP from commodity cameras, tasks that require the estimation of the 3D state of one or more humans. 
