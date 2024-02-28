@@ -35,7 +35,7 @@ Our research is beneficial to a plethora of applications, such as human-computer
 ## Links
 ------------------------------------------------------------------ 
 * [Antonis Argyros, Personal Page](https://users.ics.forth.gr/~argyros/index.html)
-* [Tassos Rousos, Personal Page](https://users.ics.forth.gr/~troussos/research_topics.html)
+* [Anastasios Roussos, Personal Page](https://users.ics.forth.gr/~troussos/research_topics.html)
 * [HCCV Group Videos](https://www.youtube.com/c/AntonisArgyros/videos)
 
 
